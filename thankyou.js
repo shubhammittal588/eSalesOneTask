@@ -11,7 +11,8 @@ if (orderId) {
       }
 
       document.getElementById('order-details').innerHTML = `
-        <h2>Order Number: ${order.orderNumber}</h2>
+        <h2>Thank You for Your Order!</h2>
+        <h3>Order Number: ${order.orderNumber}</h3>
         <div class="order-info">
           <div class="info-section">
             <h3>Customer Details</h3>
