@@ -243,7 +243,7 @@ async function goToCheckout() {
     if (cartIcon) cartIcon.style.opacity = '0.5';
 
     // Create an initial order in MongoDB
-    const response = await fetch('http://localhost:3000/api/order', {
+    const response = await fetch('https://esalesonetask.onrender.com/api/order', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
