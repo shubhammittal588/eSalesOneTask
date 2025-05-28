@@ -6,8 +6,8 @@ It features a Node.js + Express backend with MongoDB Atlas, and a static fronten
 
 ## 🚀 Live Demo
 
-- **Frontend:** [https://esalesone.netlify.app/](https://esalesone.netlify.app/))
-- **Backend API:** [https://your-backend.onrender.com](https://esalesonetask.onrender.com)
+- **Frontend:** [https://esalesone.netlify.app/](https://esalesone.netlify.app/)
+- **Backend API:** [https://esalesonetask.onrender.com](https://esalesonetask.onrender.com)
 
 ---
 
