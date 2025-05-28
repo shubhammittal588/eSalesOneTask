@@ -71,14 +71,17 @@ It features a Node.js + Express backend with MongoDB Atlas, and a static fronten
 
 - MONGODB_URI=your-mongodb-atlas-connection-string
 
-  
-### 5. Run the Backend
+### 5. Add your MailTrap Credentials
+
+- add you MailTrap UserName and Password in EmailService.js
+
+### 6. Run the Backend
 
 - node server.js
 
 Server runs at [http://localhost:3000](http://localhost:3000)
 
-### 6. Open Frontend
+### 7. Open Frontend
 
 Open `/public/index.html` in your browser, or serve with a static server.
 
