@@ -3,7 +3,7 @@ const urlParams = new URLSearchParams(window.location.search);
 const orderId = urlParams.get('orderId');
 
 if (orderId) {
-  fetch(`http://localhost:3000/api/order/${orderId}`)
+  fetch(`https://esalesonetask.onrender.com/api/order/${orderId}`)
     .then(res => res.json())
     .then(order => {
       if (!order.orderNumber) {
