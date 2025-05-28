@@ -132,7 +132,7 @@ document.getElementById('checkout-form').addEventListener('submit', async (e) =>
     loader.style.display = 'flex';
 
     // Update order with customer details
-    const response = await fetch(`http://localhost:3000/api/order/${currentOrder.orderId}`, {
+    const response = await fetch(`https://esalesonetask.onrender.com/api/order/${currentOrder.orderId}`, {
       method: 'PUT',
       headers: {
         'Content-Type': 'application/json'
