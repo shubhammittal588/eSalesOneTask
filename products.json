@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "brand": "NIVIA",
+    "name": "Urban Explorer Backpack",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+    "price": 65.00,
+    "category": "Backpack"
+  },
+  {
+    "id": 2,
+    "brand": "SKYBAGS",
+    "name": "Blue Pixel Backpack",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "price": 55.00,
+    "category": "Backpack"
+  },
+  {
+    "id": 3,
+    "brand": "ADIDAS",
+    "name": "Kid's Sprint Sneakers",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "price": 95.00,
+    "category": "Shoes"
+  },
+  {
+    "id": 4,
+    "brand": "NIVIA",
+    "name": "Urban Explorer Backpack",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+    "price": 65.00,
+    "category": "Backpack"
+  },
+  {
+    "id": 5,
+    "brand": "SKYBAGS",
+    "name": "Blue Pixel Backpack",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "price": 55.00,
+    "category": "Backpack"
+  },
+  {
+    "id": 6,
+    "brand": "ADIDAS",
+    "name": "Kid's Sprint Sneakers",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "price": 95.00,
+    "category": "Shoes"
+  },
+  {
+    "id": 7,
+    "brand": "NIVIA",
+    "name": "Urban Explorer Backpack",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+    "price": 65.00,
+    "category": "Backpack"
+  },
+  {
+    "id": 8,
+    "brand": "SKYBAGS",
+    "name": "Blue Pixel Backpack",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "price": 55.00,
+    "category": "Backpack"
+  },
+  {
+    "id": 9,
+    "brand": "ADIDAS",
+    "name": "Kid's Sprint Sneakers",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "price": 95.00,
+    "category": "Shoes"
+  }
+]

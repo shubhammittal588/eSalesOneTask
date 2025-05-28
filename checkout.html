@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Checkout | eSalesOne-Test</title>
+  <link rel="stylesheet" href="checkout.css">
+</head>
+<body>
+  <div class="checkout-header">eSalesOne-Test</div>
+  <div class="checkout-main">
+    <form class="checkout-form-card" id="checkout-form" autocomplete="off" novalidate>
+      <h2>Contact <span class="login-link"><a href="#">Log in</a></span></h2>
+      <div class="error" id="form-error"></div>
+      <input type="email" id="email" name="email" placeholder="Email Address" required>
+
+      <div class="section-title">Delivery</div>
+      <select id="country" name="country" required>
+        <option value="India">India</option>
+      </select>
+      <div class="input-row">
+        <input type="text" id="firstName" name="firstName" placeholder="First name (optional)">
+        <input type="text" id="lastName" name="lastName" placeholder="Last name">
+      </div>
+      <input type="text" id="address" name="address" placeholder="Address" required>
+      <input type="text" id="apartment" name="apartment" placeholder="Apartment, suite, etc. (optional)">
+      <div class="input-row">
+        <input type="text" id="city" name="city" placeholder="City" required>
+        <select id="state" name="state" required>
+          <option value="">State</option>
+          <option value="Uttar Pradesh">Uttar Pradesh</option>
+          <option value="Maharashtra">Maharashtra</option>
+          <option value="Delhi">Delhi</option>
+          <option value="Karnataka">Karnataka</option>
+        </select>
+        <input type="text" id="pincode" name="pincode" placeholder="PIN code" required>
+      </div>
+      <div class="checkbox-row">
+        <input type="checkbox" id="save-info" name="save-info">
+        <label for="save-info" style="font-weight:400;">Save this information for next time</label>
+      </div>
+
+      <div class="section-title">Shipping method</div>
+      <input type="text" placeholder="Enter your shipping address to view available shipping methods" disabled style="background:#f3f3f3;">
+
+      <div class="section-title">Payment</div>
+      <div style="font-size:0.97rem; color:#666; margin-bottom:10px;">All transactions are secure and encrypted.</div>
+      <div class="payment-box">
+        <label>Credit card</label>
+        <div class="input-row">
+          <input type="text" id="card" name="card" maxlength="16" placeholder="Card number" required>
+          <input type="text" id="expiry" name="expiry" maxlength="5" placeholder="Expiration date (MM / YY)" required>
+          <input type="text" id="cvv" name="cvv" maxlength="3" placeholder="Security code" required>
+        </div>
+        <input type="text" id="cardname" name="cardname" placeholder="Name on card" required>
+        <div class="checkbox-row">
+          <input type="checkbox" id="billing-same" name="billing-same" checked>
+          <label for="billing-same" style="font-weight:400;">Use shipping address as billing address</label>
+        </div>
+      </div>
+      <button class="pay-btn" type="submit">Pay now</button>
+      <div id="transaction-loader" class="loader-overlay" style="display:none;">
+        <div class="loader-circle"></div>
+        <div class="loader-text">Processing Transaction...</div>
+       </div>
+
+      <a href="#" class="privacy-link">Privacy policy</a>
+    </form>
+    <div class="order-summary-card" id="order-summary">
+      <h3>Order Summary</h3>
+      <!-- Items will be injected by JS -->
+    </div>
+  </div>
+  <script src="checkout.js"></script>
+</body>
+</html>
