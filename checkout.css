@@ -78,10 +78,24 @@ body {
 }
 .checkout-form-card .checkbox-row {
   display: flex;
+  align-items: center;
   gap: 8px;
-  margin-bottom: 16px;
-  padding-left: 0%;
+  margin: 10px 0;
 }
+
+.checkout-form-card .checkbox-row input[type="checkbox"] {
+  width: auto !important;
+  margin: 0;
+  padding: 0;
+  flex: 0 0 auto;
+}
+
+.checkout-form-card .checkbox-row label {
+  flex: 1;
+  margin: 0;
+  display: inline-block;
+}
+
 .checkout-form-card .error {
   color: #ff5c5c;
   font-size: 0.95em;
