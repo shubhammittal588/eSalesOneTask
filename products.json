@@ -29,13 +29,13 @@
     "name": "Kids Stan Smith",
     "image": "https://vidamik.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0589%2F7492%2F8989%2Ffiles%2F44694ee386818f3276566210464cf341.jpg%3Fv%3D1712758597&w=1080&q=75",
     "price": 65.00,
-    "category": "Backpack"
+    "category": "Shoes"
   },
   {
     "id": 5,
     "brand": "ADIDAS",
     "name": "Superstar 80s",
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "image": "https://vidamik.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0589%2F7492%2F8989%2Ffiles%2F44694ee386818f3276566210464cf341.jpg%3Fv%3D1712758597&w=1080&q=75",
     "price": 55.00,
     "category": "Backpack"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "brand": "ADIDAS",
     "name": "Kid's Sprint Sneakers",
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "image": "https://extrabutterny.com/cdn/shop/products/DN6K4-9090_1.jpg?v=1478357149&width=816",
     "price": 95.00,
     "category": "Shoes"
   },
@@ -51,15 +51,15 @@
     "id": 7,
     "brand": "ASICS TIGER",
     "name": "GEL-LYTE V '30 YEARS OF GEL' PACK",
-    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+    "image": "https://india.robinstore.co/cdn/shop/products/23550440c4ccab05e4fc1ebd85e742cc_grande.jpg?v=1618565979",
     "price": 65.00,
     "category": "Backpack"
   },
   {
     "id": 8,
-    "brand": "CONVERSE",
-    "name": "CHUCK TAYLOR ALL STAR II HI",
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "brand": "HERSCHEL",
+    "name": "IONA",
+    "image": "https://www.overkillshop.com/cdn/shop/files/10331-00001-os_01.jpg?v=1715995788&width=5000",
     "price": 55.00,
     "category": "Backpack"
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "brand": "ADIDAS",
     "name": "Kid's Sprint Sneakers",
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "image": "https://teststore.littledata.io/cdn/shop/products/401f6d6c355012d9eb8749feda025256_540x.jpg?v=1571736156",
     "price": 95.00,
     "category": "Shoes"
   }
