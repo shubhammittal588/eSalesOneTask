@@ -9,32 +9,32 @@
   },
   {
     "id": 2,
-    "brand": "SKYBAGS",
-    "name": "Blue Pixel Backpack",
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "brand": "ADIDAS",
+    "name": "Classic Backpack",
+    "image": "https://vidamik.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0589%2F7492%2F8989%2Ffiles%2F8072c8b5718306d4be25aac21836ce16.jpg%3Fv%3D1712758711&w=1080&q=75",
     "price": 55.00,
     "category": "Backpack"
   },
   {
     "id": 3,
     "brand": "ADIDAS",
-    "name": "Kid's Sprint Sneakers",
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "name": "Classic Backpack | Legend Ink Multicolor",
+    "image": "https://outerreaches.ca/cdn/shop/files/7883dc186e15bf29dad696e1e989e914_1024x1024.jpg?v=1730906224",
     "price": 95.00,
     "category": "Shoes"
   },
   {
     "id": 4,
-    "brand": "NIVIA",
-    "name": "Urban Explorer Backpack",
-    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+    "brand": "ADIDAS",
+    "name": "Kids Stan Smith",
+    "image": "https://vidamik.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0589%2F7492%2F8989%2Ffiles%2F44694ee386818f3276566210464cf341.jpg%3Fv%3D1712758597&w=1080&q=75",
     "price": 65.00,
     "category": "Backpack"
   },
   {
     "id": 5,
-    "brand": "SKYBAGS",
-    "name": "Blue Pixel Backpack",
+    "brand": "ADIDAS",
+    "name": "Superstar 80s",
     "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
     "price": 55.00,
     "category": "Backpack"
@@ -49,16 +49,16 @@
   },
   {
     "id": 7,
-    "brand": "NIVIA",
-    "name": "Urban Explorer Backpack",
+    "brand": "ASICS TIGER",
+    "name": "GEL-LYTE V '30 YEARS OF GEL' PACK",
     "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
     "price": 65.00,
     "category": "Backpack"
   },
   {
     "id": 8,
-    "brand": "SKYBAGS",
-    "name": "Blue Pixel Backpack",
+    "brand": "CONVERSE",
+    "name": "CHUCK TAYLOR ALL STAR II HI",
     "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
     "price": 55.00,
     "category": "Backpack"
