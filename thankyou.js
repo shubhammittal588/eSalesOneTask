@@ -11,10 +11,10 @@ if (orderId) {
       }
 
       document.getElementById('order-details').innerHTML = `
-        <h2>Thank You for Your Order!</h2>
-        <h3>Order Number: ${order.orderNumber}</h3>
+        <h1>Thank You for Your Order!</h1>
         <div class="order-info">
           <div class="info-section">
+            <h3>Order Number: ${order.orderNumber}</h3>
             <h3>Customer Details</h3>
             <div>Name: ${order.customer.name}</div>
             <div>Email: ${order.customer.email}</div>
